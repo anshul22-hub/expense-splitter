@@ -1,3 +1,39 @@
+# 📱 React Native App (Expo)
+
+A cross-platform mobile application built using **React Native with Expo**, featuring **state management with Zustand or Redux**, **persistent storage via AsyncStorage**, and optional **Firebase Google Authentication**.
+
+---
+
+## 🚀 Tech Stack
+
+| Tool/Framework       | Purpose                                   |
+|----------------------|-------------------------------------------|
+| React Native + Expo  | Core framework for building the app       |
+| Zustand / Redux      | Global state management                   |
+| AsyncStorage         | Persistent local data storage             |
+| Firebase (Optional)  | Google authentication (bonus feature)     |
+| Additional Libraries | Icons, Animations, Navigation, etc.       |
+
+---
+
+## 🧠 Features
+
+- ⚛️ Built with **React Native & Expo**
+- 🔐 Optional **Google Authentication** using **Firebase**
+- 💾 Data persistence using **AsyncStorage**
+- 📦 State management using **Zustand** or **Redux**
+- 📱 Cross-platform support (Android & iOS)
+- 🎨 Clean UI with customizable components
+
+---
+
+## 📂 Folder Structure
+
+
+
+
+
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
